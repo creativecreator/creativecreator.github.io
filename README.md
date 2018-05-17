@@ -1,7 +1,7 @@
-# creative-creator
+# creative creator
 Flow &amp; Form builder by GUI. This is extend of 'dobtco Formbuilder'.
 # Demo
-[Click here](https://creative-creator.github.io/) .
+[Click here](https://creativecreator.github.io/) .
 # Basics
 ```
 <div id='Ccreator'></div>

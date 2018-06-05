@@ -3,6 +3,8 @@ Flow &amp; Form builder by GUI. This is extend of 'dobtco Formbuilder'.
 # Demo
 [Click here](https://creativecreator.github.io/) .
 # Basics
+# Become a Patron
+[Donate](https://creativecreator.github.io/) .
 ```
 <div id='Ccreator'></div>
 
@@ -48,3 +50,4 @@ You'll need [node and npm](http://nodejs.org/) installed.
 1. `npm install` or `sudo npm install`
 2. `bower install` or `sudo bower install --allow-root`
 3. `grunt watch`
+
